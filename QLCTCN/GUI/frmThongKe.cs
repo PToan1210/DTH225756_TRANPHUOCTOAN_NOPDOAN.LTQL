@@ -217,42 +217,55 @@ namespace GUI
             {
                 if (_duLieuHienTai == null || _duLieuHienTai.Count == 0)
                 {
-                    MessageBox.Show("Không có dữ liệu để xuất báo cáo!", "Thông báo",
+                    MessageBox.Show("Không có dữ liệu để xuất!", "Thông báo",
                         MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
 
+                // Tạo DataTable
                 DataTable dt = new DataTable();
-                dt.Columns.Add("NgayGiaoDich", typeof(DateTime));
-                dt.Columns.Add("TenHangMuc", typeof(string));
-                dt.Columns.Add("TenNguonTien", typeof(string));
-                dt.Columns.Add("SoTienThu", typeof(decimal));
-                dt.Columns.Add("SoTienChi", typeof(decimal));
-                dt.Columns.Add("MoTa", typeof(string));
-                dt.Columns.Add("Loai", typeof(string));
+
+                // Thêm cột với kiểu object để tránh lỗi (sau đó Excel sẽ tự hiểu)
+                dt.Columns.Add("Ngày giao dịch", typeof(string));
+                dt.Columns.Add("Hạng mục", typeof(string));
+                dt.Columns.Add("Nguồn tiền", typeof(string));
+                dt.Columns.Add("Số tiền thu", typeof(object));  // ⭐ Đổi thành object
+                dt.Columns.Add("Số tiền chi", typeof(object));  // ⭐ Đổi thành object
+                dt.Columns.Add("Mô tả", typeof(string));
+                dt.Columns.Add("Loại", typeof(string));
 
                 foreach (var item in _duLieuHienTai)
                 {
+                    // ⭐ Xử lý giá trị: nếu bằng 0 hoặc null thì để trống
+                    string soTienThu = item.SoTienThu > 0 ? item.SoTienThu.ToString("N0") : "";
+                    string soTienChi = item.SoTienChi > 0 ? item.SoTienChi.ToString("N0") : "";
+
                     dt.Rows.Add(
-                        item.NgayGiaoDich,
-                        item.TenHangMuc,
-                        item.TenNguonTien,
-                        item.SoTienThu,
-                        item.SoTienChi,
-                        item.MoTa,
-                        item.Loai
+                        item.NgayGiaoDich.ToString("dd/MM/yyyy"),
+                        string.IsNullOrEmpty(item.TenHangMuc) ? "" : item.TenHangMuc,
+                        string.IsNullOrEmpty(item.TenNguonTien) ? "" : item.TenNguonTien,
+                        soTienThu,  // ⭐ Lưu dưới dạng string
+                        soTienChi,  // ⭐ Lưu dưới dạng string
+                        string.IsNullOrEmpty(item.MoTa) ? "" : item.MoTa,
+                        string.IsNullOrEmpty(item.Loai) ? "" : item.Loai
                     );
                 }
 
+                // Tính tổng (từ dữ liệu gốc, không từ DataTable)
                 decimal tongThu = _duLieuHienTai.Sum(x => x.SoTienThu);
                 decimal tongChi = _duLieuHienTai.Sum(x => x.SoTienChi);
 
-                frmXemBaoCao frm = new frmXemBaoCao(dt, tongThu, tongChi, _tuNgayHienTai, _denNgayHienTai);
-                frm.ShowDialog();
+                // Thêm dòng tổng kết
+                dt.Rows.Add("", "", "TỔNG KẾT", tongThu.ToString("N0"), tongChi.ToString("N0"), "", "");
+                dt.Rows.Add("", "", "CHÊNH LỆCH", (tongThu - tongChi).ToString("N0"), "", "", "");
+
+                string tieuDe = $"BÁO CÁO THỐNG KÊ THU CHI\nTừ ngày: {_tuNgayHienTai:dd/MM/yyyy} - Đến ngày: {_denNgayHienTai:dd/MM/yyyy}\nNgười dùng: {frmdangnhap.TaiKhoanHienTai?.SHoTen}";
+
+                ExportExcelHelper.XuatExcel(dt, "ThongKeThuChi", tieuDe);
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Lỗi xuất báo cáo: {ex.Message}", "Lỗi",
+                MessageBox.Show($"Lỗi xuất Excel: {ex.Message}", "Lỗi",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }

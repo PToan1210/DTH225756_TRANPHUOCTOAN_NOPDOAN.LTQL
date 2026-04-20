@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|d:\\ngonngulaptrinh\\ltql\\nopdoan\\qlctcn\\gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|d:\\ngonngulaptrinh\\ltql\\nopdoan\\qlctcn\\gui\\exportexcelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\exportexcelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|d:\\ngonngulaptrinh\\ltql\\nopdoan\\qlctcn\\gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlynd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|solutionrelative:gui\\frmxembaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AA25DD1-9CB4-42EE-859E-94DFB470AA32}|GUI\\GUI.csproj|D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\gui\\rptbaocaothuchi.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -175,31 +179,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmDangKy.cs [Design]",
-              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmDangKy.cs",
-              "RelativeDocumentMoniker": "GUI\\frmDangKy.cs",
-              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmDangKy.cs [Design]",
-              "RelativeToolTip": "GUI\\frmDangKy.cs [Design]",
+              "Title": "ExportExcelHelper.cs",
+              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\ExportExcelHelper.cs",
+              "RelativeDocumentMoniker": "GUI\\ExportExcelHelper.cs",
+              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\ExportExcelHelper.cs",
+              "RelativeToolTip": "GUI\\ExportExcelHelper.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T01:13:49.96Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmChiTieu.cs",
-              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmChiTieu.cs",
-              "RelativeDocumentMoniker": "GUI\\frmChiTieu.cs",
-              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmChiTieu.cs",
-              "RelativeToolTip": "GUI\\frmChiTieu.cs",
-              "ViewState": "AgIAAOoAAAAAAAAAAAAgwPwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T22:13:24.11Z",
+              "WhenOpened": "2026-04-20T07:45:43.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TaiKhoan_DAO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\TaiKhoan_DAO.cs",
               "RelativeDocumentMoniker": "DAO\\TaiKhoan_DAO.cs",
@@ -212,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "frmTrangChu.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmTrangChu.cs",
               "RelativeDocumentMoniker": "GUI\\frmTrangChu.cs",
@@ -224,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "frmTrangChu.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmTrangChu.cs",
               "RelativeDocumentMoniker": "GUI\\frmTrangChu.cs",
@@ -237,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmQuanLyND.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmQuanLyND.cs",
               "RelativeDocumentMoniker": "GUI\\frmQuanLyND.cs",
@@ -249,20 +241,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmQuanLyND.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmQuanLyND.cs",
               "RelativeDocumentMoniker": "GUI\\frmQuanLyND.cs",
               "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmQuanLyND.cs",
               "RelativeToolTip": "GUI\\frmQuanLyND.cs",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAgwBoBAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAQwFABAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T06:45:11.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "GUI\\frmThongKe.cs",
+              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThongKe.cs",
+              "RelativeToolTip": "GUI\\frmThongKe.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAwA0BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:01:27.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChiTieu.cs",
+              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmChiTieu.cs",
+              "RelativeDocumentMoniker": "GUI\\frmChiTieu.cs",
+              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmChiTieu.cs",
+              "RelativeToolTip": "GUI\\frmChiTieu.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAgwPwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:13:24.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmXemBaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.cs",
+              "RelativeDocumentMoniker": "GUI\\frmXemBaoCao.cs",
+              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.cs [Design]",
+              "RelativeToolTip": "GUI\\frmXemBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:40:51.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\frmDangKy.cs",
+              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "GUI\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:13:49.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TaiKhoan_BUS.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\BUS\\TaiKhoan_BUS.cs",
               "RelativeDocumentMoniker": "BUS\\TaiKhoan_BUS.cs",
@@ -275,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "frmDangKy.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmDangKy.cs",
               "RelativeDocumentMoniker": "GUI\\frmDangKy.cs",
@@ -288,20 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmThongKe.cs",
-              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThongKe.cs",
-              "RelativeDocumentMoniker": "GUI\\frmThongKe.cs",
-              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThongKe.cs",
-              "RelativeToolTip": "GUI\\frmThongKe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwPUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T04:01:27.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "frmChiTieu.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmChiTieu.cs",
               "RelativeDocumentMoniker": "GUI\\frmChiTieu.cs",
@@ -313,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "frmXemBaoCao.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.cs",
               "RelativeDocumentMoniker": "GUI\\frmXemBaoCao.cs",
@@ -326,19 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmXemBaoCao.cs [Design]",
-              "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.cs",
-              "RelativeDocumentMoniker": "GUI\\frmXemBaoCao.cs",
-              "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.cs [Design]",
-              "RelativeToolTip": "GUI\\frmXemBaoCao.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T04:40:51.475Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ThongKe_DAO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\ThongKe_DAO.cs",
               "RelativeDocumentMoniker": "DAO\\ThongKe_DAO.cs",
@@ -346,11 +363,12 @@
               "RelativeToolTip": "DAO\\ThongKe_DAO.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T04:18:28.986Z"
+              "WhenOpened": "2026-04-20T04:18:28.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ThongKe_BUS.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\BUS\\ThongKe_BUS.cs",
               "RelativeDocumentMoniker": "BUS\\ThongKe_BUS.cs",
@@ -358,11 +376,12 @@
               "RelativeToolTip": "BUS\\ThongKe_BUS.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAcwHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T04:19:00.239Z"
+              "WhenOpened": "2026-04-20T04:19:00.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmThuNhap.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThuNhap.cs",
               "RelativeDocumentMoniker": "GUI\\frmThuNhap.cs",
@@ -370,11 +389,12 @@
               "RelativeToolTip": "GUI\\frmThuNhap.cs",
               "ViewState": "AgIAAM0AAAAAAAAAAAAqwNUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:08:26.552Z"
+              "WhenOpened": "2026-04-14T09:08:26.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "rptBaoCaoThuChi.rdlc",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\rptBaoCaoThuChi.rdlc",
               "RelativeDocumentMoniker": "GUI\\rptBaoCaoThuChi.rdlc",
@@ -382,11 +402,12 @@
               "RelativeToolTip": "GUI\\rptBaoCaoThuChi.rdlc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2026-04-20T05:49:42.326Z"
+              "WhenOpened": "2026-04-20T05:49:42.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmXemBaoCao.Designer.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmXemBaoCao.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\frmXemBaoCao.Designer.cs",
@@ -399,18 +420,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmThuNhap.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThuNhap.cs",
               "RelativeDocumentMoniker": "GUI\\frmThuNhap.cs",
               "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThuNhap.cs [Design]",
               "RelativeToolTip": "GUI\\frmThuNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T08:31:21.091Z"
+              "WhenOpened": "2026-04-03T08:31:21.091Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "frmThongKe.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmThongKe.cs",
               "RelativeDocumentMoniker": "GUI\\frmThongKe.cs",
@@ -422,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ThongKe_DTO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DTO\\ThongKe_DTO.cs",
               "RelativeDocumentMoniker": "DTO\\ThongKe_DTO.cs",
@@ -430,11 +452,12 @@
               "RelativeToolTip": "DTO\\ThongKe_DTO.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T04:17:57.585Z"
+              "WhenOpened": "2026-04-20T04:17:57.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GiaoDich_DAO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\GiaoDich_DAO.cs",
               "RelativeDocumentMoniker": "DAO\\GiaoDich_DAO.cs",
@@ -442,11 +465,12 @@
               "RelativeToolTip": "DAO\\GiaoDich_DAO.cs",
               "ViewState": "AgIAAIYAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T02:10:01.225Z"
+              "WhenOpened": "2026-04-20T02:10:01.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "GiaoDich_BUS.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\BUS\\GiaoDich_BUS.cs",
               "RelativeDocumentMoniker": "BUS\\GiaoDich_BUS.cs",
@@ -454,11 +478,12 @@
               "RelativeToolTip": "BUS\\GiaoDich_BUS.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T02:13:05.984Z"
+              "WhenOpened": "2026-04-20T02:13:05.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "NguonTien_DTO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DTO\\NguonTien_DTO.cs",
               "RelativeDocumentMoniker": "DTO\\NguonTien_DTO.cs",
@@ -466,11 +491,12 @@
               "RelativeToolTip": "DTO\\NguonTien_DTO.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAiwBgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:39:13.713Z"
+              "WhenOpened": "2026-04-19T21:39:13.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "frmNguonTien.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmNguonTien.cs",
               "RelativeDocumentMoniker": "GUI\\frmNguonTien.cs",
@@ -478,11 +504,12 @@
               "RelativeToolTip": "GUI\\frmNguonTien.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAowDQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:42:22.638Z"
+              "WhenOpened": "2026-04-19T21:42:22.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "frmHangMuc.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmHangMuc.cs",
               "RelativeDocumentMoniker": "GUI\\frmHangMuc.cs",
@@ -490,11 +517,12 @@
               "RelativeToolTip": "GUI\\frmHangMuc.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwDEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:41:55.045Z"
+              "WhenOpened": "2026-04-19T21:41:55.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
@@ -502,33 +530,36 @@
               "RelativeToolTip": "GUI\\Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAWwBAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T17:10:54.888Z"
+              "WhenOpened": "2026-04-01T17:10:54.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
               "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\Form1.cs [Design]",
               "RelativeToolTip": "GUI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:39:43.619Z"
+              "WhenOpened": "2026-04-19T21:39:43.619Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "frmNguonTien.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmNguonTien.cs",
               "RelativeDocumentMoniker": "GUI\\frmNguonTien.cs",
               "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmNguonTien.cs [Design]",
               "RelativeToolTip": "GUI\\frmNguonTien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:42:15.335Z"
+              "WhenOpened": "2026-04-19T21:42:15.335Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "GiaoDich_DTO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DTO\\GiaoDich_DTO.cs",
               "RelativeDocumentMoniker": "DTO\\GiaoDich_DTO.cs",
@@ -536,11 +567,12 @@
               "RelativeToolTip": "DTO\\GiaoDich_DTO.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T04:23:06.121Z"
+              "WhenOpened": "2026-04-06T04:23:06.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "NguonTien_DAO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\NguonTien_DAO.cs",
               "RelativeDocumentMoniker": "DAO\\NguonTien_DAO.cs",
@@ -548,11 +580,12 @@
               "RelativeToolTip": "DAO\\NguonTien_DAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:38:19.232Z"
+              "WhenOpened": "2026-04-19T21:38:19.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "NguonTien_BUS.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\BUS\\NguonTien_BUS.cs",
               "RelativeDocumentMoniker": "BUS\\NguonTien_BUS.cs",
@@ -560,22 +593,24 @@
               "RelativeToolTip": "BUS\\NguonTien_BUS.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAiwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:36:58.121Z"
+              "WhenOpened": "2026-04-19T21:36:58.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "frmHangMuc.cs [Design]",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmHangMuc.cs",
               "RelativeDocumentMoniker": "GUI\\frmHangMuc.cs",
               "ToolTip": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\frmHangMuc.cs [Design]",
               "RelativeToolTip": "GUI\\frmHangMuc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:41:43.984Z"
+              "WhenOpened": "2026-04-19T21:41:43.984Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "HangMuc_BUS.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\BUS\\HangMuc_BUS.cs",
               "RelativeDocumentMoniker": "BUS\\HangMuc_BUS.cs",
@@ -583,11 +618,12 @@
               "RelativeToolTip": "BUS\\HangMuc_BUS.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:36:05.822Z"
+              "WhenOpened": "2026-04-19T21:36:05.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "HangMuc_DAO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\HangMuc_DAO.cs",
               "RelativeDocumentMoniker": "DAO\\HangMuc_DAO.cs",
@@ -595,11 +631,12 @@
               "RelativeToolTip": "DAO\\HangMuc_DAO.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:38:04.979Z"
+              "WhenOpened": "2026-04-19T21:38:04.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "HangMuc_DTO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DTO\\HangMuc_DTO.cs",
               "RelativeDocumentMoniker": "DTO\\HangMuc_DTO.cs",
@@ -607,11 +644,12 @@
               "RelativeToolTip": "DTO\\HangMuc_DTO.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:38:53.889Z"
+              "WhenOpened": "2026-04-19T21:38:53.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "TaiKhoan_DTO.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DTO\\TaiKhoan_DTO.cs",
               "RelativeDocumentMoniker": "DTO\\TaiKhoan_DTO.cs",
@@ -619,11 +657,12 @@
               "RelativeToolTip": "DTO\\TaiKhoan_DTO.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T01:01:56.125Z"
+              "WhenOpened": "2026-04-20T01:01:56.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "DataProvider.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
@@ -631,11 +670,12 @@
               "RelativeToolTip": "DAO\\DataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T02:18:15.007Z"
+              "WhenOpened": "2026-04-05T02:18:15.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NGONNGULAPTRINH\\LTQL\\NOPDOAN\\QLCTCN\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "GUI\\Program.cs",
@@ -643,7 +683,8 @@
               "RelativeToolTip": "GUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T09:02:55.999Z"
+              "WhenOpened": "2026-04-03T09:02:55.999Z",
+              "EditorCaption": ""
             }
           ]
         }

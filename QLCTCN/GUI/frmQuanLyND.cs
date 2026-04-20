@@ -109,7 +109,61 @@ namespace GUI
             }
         }
 
+        private void DanhSachNguoiDung()
+        {
+            string tuKhoa = txtTim.Text.Trim();
+            List<TaiKhoan_DTO> list;
 
+            if (string.IsNullOrWhiteSpace(tuKhoa))
+                list = TaiKhoan_BUS.LayDanhSachNguoiDung();
+            else
+                list = TaiKhoan_BUS.TimKiemNguoiDung(tuKhoa);
+
+            dgvDSND.DataSource = list;
+            if (dgvDSND.Columns.Contains("SMaNguoiDung"))
+            {
+                dgvDSND.Columns["SMaNguoiDung"].HeaderText = "Mã";
+                dgvDSND.Columns["SMaNguoiDung"].Width = 60;
+            }
+
+            if (dgvDSND.Columns.Contains("SHoTen"))
+            {
+                dgvDSND.Columns["SHoTen"].HeaderText = "Họ tên";
+                dgvDSND.Columns["SHoTen"].Width = 180;
+            }
+
+            if (dgvDSND.Columns.Contains("STenDangNhap"))
+            {
+                dgvDSND.Columns["STenDangNhap"].HeaderText = "Tên đăng nhập";
+                dgvDSND.Columns["STenDangNhap"].Width = 150;
+            }
+
+            if (dgvDSND.Columns.Contains("SEmail"))
+            {
+                dgvDSND.Columns["SEmail"].HeaderText = "Email";
+                dgvDSND.Columns["SEmail"].Width = 180;
+            }
+
+            if (dgvDSND.Columns.Contains("TenVaiTro"))
+            {
+                dgvDSND.Columns["TenVaiTro"].HeaderText = "Vai trò";
+                dgvDSND.Columns["TenVaiTro"].Width = 100;
+            }
+
+            if (dgvDSND.Columns.Contains("SNgayTao"))
+            {
+                dgvDSND.Columns["SNgayTao"].HeaderText = "Ngày tạo";
+                dgvDSND.Columns["SNgayTao"].DefaultCellStyle.Format = "dd/MM/yyyy";
+                dgvDSND.Columns["SNgayTao"].Width = 120;
+            }
+
+
+            if (dgvDSND.Columns.Contains("SMatKhau"))
+                dgvDSND.Columns["SMatKhau"].Visible = false;
+            dgvDSND.Columns["SVaiTro"].Visible = false;
+            dgvDSND.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgvDSND.RowTemplate.Height = 35;
+        }
         private void ResetForm()
         {
             txtTenND.Clear();
@@ -280,7 +334,7 @@ namespace GUI
 
         private void btnTim_Click(object sender, EventArgs e)
         {
-            
+            DanhSachNguoiDung();
         }
     }
 
