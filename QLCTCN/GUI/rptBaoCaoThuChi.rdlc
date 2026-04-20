@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition"
+        xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+
+	<DataSources>
+		<DataSource Name="DataSetBaoCao">
+			<DataSourceReference>GUI.DataSetBaoCao</DataSourceReference>
+		</DataSource>
+	</DataSources>
+
+	<DataSets>
+		<DataSet Name="DataSetBaoCao">
+			<Fields>
+				<Field Name="NgayGiaoDich">
+					<DataField>NgayGiaoDich</DataField>
+					<rd:TypeName>System.DateTime</rd:TypeName>
+				</Field>
+				<Field Name="TenHangMuc">
+					<DataField>TenHangMuc</DataField>
+					<rd:TypeName>System.String</rd:TypeName>
+				</Field>
+				<Field Name="TenNguonTien">
+					<DataField>TenNguonTien</DataField>
+					<rd:TypeName>System.String</rd:TypeName>
+				</Field>
+				<Field Name="SoTienThu">
+					<DataField>SoTienThu</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="SoTienChi">
+					<DataField>SoTienChi</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="MoTa">
+					<DataField>MoTa</DataField>
+					<rd:TypeName>System.String</rd:TypeName>
+				</Field>
+				<Field Name="Loai">
+					<DataField>Loai</DataField>
+					<rd:TypeName>System.String</rd:TypeName>
+				</Field>
+			</Fields>
+			<Query>
+				<DataSourceName>DataSetBaoCao</DataSourceName>
+				<CommandText>SELECT * FROM GiaoDich</CommandText>
+			</Query>
+		</DataSet>
+	</DataSets>
+
+	<ReportSections>
+		<ReportSection>
+			<Body>
+				<ReportItems>
+					<Textbox Name="txtTieuDe">
+						<Top>10pt</Top>
+						<Left>10pt</Left>
+						<Height>30pt</Height>
+						<Width>300pt</Width>
+						<Value>BÁO CÁO THỐNG KÊ THU CHI</Value>
+						<Style>
+							<FontSize>20pt</FontSize>
+							<FontWeight>Bold</FontWeight>
+						</Style>
+					</Textbox>
+				</ReportItems>
+				<Height>500pt</Height>
+			</Body>
+		</ReportSection>
+	</ReportSections>
+
+	<ReportParameters>
+		<ReportParameter Name="NguoiDung">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Người dùng</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="TuNgay">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Từ ngày</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="DenNgay">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Đến ngày</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="NgayIn">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Ngày in</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="TongThu">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Tổng thu</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="TongChi">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Tổng chi</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="ChenhLech">
+			<DataType>String</DataType>
+			<Nullable>true</Nullable>
+			<Prompt>Chênh lệch</Prompt>
+		</ReportParameter>
+	</ReportParameters>
+
+</Report>
